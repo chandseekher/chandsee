@@ -1,0 +1,4 @@
+var box,tower;
+var door;
+
+function preload(){

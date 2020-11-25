@@ -2,3 +2,5 @@ var box,tower;
 var door;
 
 function preload(){
+boxImg=loadImage("box.png");
+doorImg=loadImage("door.png");
